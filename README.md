@@ -1,9 +1,9 @@
-# GraphQL booklist Client
+# GraphQL book list Client
 
 This is just a sample code following [a tutorial on YouTube](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iK6Qhn-QLcXCXPQUov1U7f) thanks to [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg).
 
 ## Running the project
-To run this project you need nodejs and npm installed to your system. You should be able to run this on linux, windows and mac machine.
+To run this project you'll need nodejs and npm installed on your system. You should be able to run this on your linux, windows and mac machine.
 
 ### 1. Clone the project, than cd into the project directory:
 
